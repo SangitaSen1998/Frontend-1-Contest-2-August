@@ -23,7 +23,7 @@ Web-browser (Chrome Recomonded)
 
 **Client:** HTML,CSS
 
-##Screenshot
+## Screenshot
 ![Screenshot (15)](https://github.com/SangitaSen1998/Frontend-1-Contest-2-August/assets/122546428/1375446f-be3a-470b-bc38-b34537bdd2b8)
 
 ## Contact
